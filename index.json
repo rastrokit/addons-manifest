@@ -2,7 +2,7 @@
   {
     "id": "gustavohps10-claude",
     "name": "Claude Theme",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "capabilities": [
       "theme"
     ],
@@ -19,18 +19,29 @@
       "light"
     ],
     "tier": "free",
-    "downloadUrl": "https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.2/gustavohps10-claude-0.2.2.tladdon",
-    "requiredApiVersion": ">=0.14.0",
-    "releaseDate": "2026-11-05",
+    "downloadUrl": "https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.3/gustavohps10-claude-0.2.3.tladdon",
+    "requiredApiVersion": ">=0.15.0",
+    "releaseDate": "2026-11-17",
     "changelog": [
       "Release 0.1.0"
     ],
     "packages": [
       {
+        "version": "0.2.3",
+        "requiredApiVersion": ">=0.15.0",
+        "releaseDate": "2026-11-17",
+        "downloadUrl": "https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.3/gustavohps10-claude-0.2.3.tladdon",
+        "sha256": "0ce033e028d1c5fdd38e96803b0618c846389fcab729b3716954de74c7afa4d9",
+        "size": 1748515,
+        "changelog": [
+          "Release 0.1.0"
+        ]
+      },
+      {
         "version": "0.2.2",
+        "downloadUrl": "https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.2/gustavohps10-claude-0.2.2.tladdon",
         "requiredApiVersion": ">=0.14.0",
         "releaseDate": "2026-11-05",
-        "downloadUrl": "https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.2/gustavohps10-claude-0.2.2.tladdon",
         "sha256": "0f3f7322b07fcd3813ed1b98801c993aede9ec067a099a90a71d3abbccb1b8e3",
         "size": 1748453,
         "changelog": [
@@ -83,8 +94,8 @@
       }
     ],
     "main": "dist/index.js",
-    "sha256": "0f3f7322b07fcd3813ed1b98801c993aede9ec067a099a90a71d3abbccb1b8e3",
-    "size": 1748453
+    "sha256": "0ce033e028d1c5fdd38e96803b0618c846389fcab729b3716954de74c7afa4d9",
+    "size": 1748515
   },
   {
     "id": "gustavohps10-redmine",
@@ -345,7 +356,7 @@
   {
     "id": "mistertick-discord",
     "name": "Discord Presence",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "capabilities": [
       "auth",
       "watcher"
@@ -363,15 +374,26 @@
       "plus"
     ],
     "tier": "plus",
-    "downloadUrl": "https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-discord/versions/0.6.0/download",
-    "sha256": "a1dad10b820359dcfb1033d812c075007eca476e47f9f5ae814dfb528cce6979",
-    "size": 758265,
-    "requiredApiVersion": ">=0.14.0",
-    "releaseDate": "2026-11-05",
+    "downloadUrl": "https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-discord/versions/0.6.1/download",
+    "sha256": "3f3a0dec6aaaa4ebfe9ef1d5f4524cf00ad985488458e3f917b875f1b3d212c2",
+    "size": 877698,
+    "requiredApiVersion": ">=0.15.0",
+    "releaseDate": "2026-11-17",
     "changelog": [
       "Release 0.1.0"
     ],
     "packages": [
+      {
+        "version": "0.6.1",
+        "downloadUrl": "https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-discord/versions/0.6.1/download",
+        "requiredApiVersion": ">=0.15.0",
+        "releaseDate": "2026-11-17",
+        "sha256": "3f3a0dec6aaaa4ebfe9ef1d5f4524cf00ad985488458e3f917b875f1b3d212c2",
+        "size": 877698,
+        "changelog": [
+          "Release 0.1.0"
+        ]
+      },
       {
         "version": "0.6.0",
         "downloadUrl": "https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-discord/versions/0.6.0/download",
@@ -454,7 +476,7 @@
   {
     "id": "mistertick-dracula",
     "name": "Dracula",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "capabilities": [
       "theme"
     ],
@@ -471,18 +493,29 @@
       "light"
     ],
     "tier": "free",
-    "downloadUrl": "https://github.com/mistertick/dracula-theme/releases/download/v0.3.2/mistertick-dracula-0.3.2.tladdon",
-    "requiredApiVersion": ">=0.14.0",
-    "releaseDate": "2026-11-05",
+    "downloadUrl": "https://github.com/mistertick/dracula-theme/releases/download/v0.3.3/mistertick-dracula-0.3.3.tladdon",
+    "requiredApiVersion": ">=0.15.0",
+    "releaseDate": "2026-11-17",
     "changelog": [
       "Release 0.1.0"
     ],
     "packages": [
       {
+        "version": "0.3.3",
+        "requiredApiVersion": ">=0.15.0",
+        "releaseDate": "2026-11-17",
+        "downloadUrl": "https://github.com/mistertick/dracula-theme/releases/download/v0.3.3/mistertick-dracula-0.3.3.tladdon",
+        "sha256": "b152ec81058542ab8e84fc1c6526b9773edd11392eef406b1ff511b4e7478f04",
+        "size": 22808,
+        "changelog": [
+          "Release 0.1.0"
+        ]
+      },
+      {
         "version": "0.3.2",
+        "downloadUrl": "https://github.com/mistertick/dracula-theme/releases/download/v0.3.2/mistertick-dracula-0.3.2.tladdon",
         "requiredApiVersion": ">=0.14.0",
         "releaseDate": "2026-11-05",
-        "downloadUrl": "https://github.com/mistertick/dracula-theme/releases/download/v0.3.2/mistertick-dracula-0.3.2.tladdon",
         "sha256": "a686bce4ca08e309a46efe48cb197d6753d91b5e98732109553290f943e43848",
         "size": 22744,
         "changelog": [
@@ -535,8 +568,8 @@
       }
     ],
     "main": "dist/index.js",
-    "sha256": "a686bce4ca08e309a46efe48cb197d6753d91b5e98732109553290f943e43848",
-    "size": 22744
+    "sha256": "b152ec81058542ab8e84fc1c6526b9773edd11392eef406b1ff511b4e7478f04",
+    "size": 22808
   },
   {
     "id": "mistertick-jira",
