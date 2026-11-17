@@ -1,6 +1,6 @@
 id: mistertick-jira
 name: Jira Cloud
-version: 0.2.2
+version: 0.2.3
 capabilities:
   - auth
   - dataSource
@@ -15,14 +15,22 @@ tags:
   - cloud
   - plus
 tier: plus
-downloadUrl: https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-jira/versions/0.2.2/download
-sha256: aafb9a0d8ea01c768329fd362806a77afeba6aef71f4df871ef257f012b107dc
-size: 722717
-requiredApiVersion: '>=0.14.0'
-releaseDate: '2026-11-05'
+downloadUrl: https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-jira/versions/0.2.3/download
+sha256: 11c787d01ca25f22e3020e9a55bb97fcb4626ffb250dea4937b246cf8d6fb39a
+size: 840571
+requiredApiVersion: '>=0.15.0'
+releaseDate: '2026-11-17'
 changelog:
   - Release 0.1.0
 packages:
+  - version: 0.2.3
+    downloadUrl: https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-jira/versions/0.2.3/download
+    requiredApiVersion: '>=0.15.0'
+    releaseDate: '2026-11-17'
+    sha256: 11c787d01ca25f22e3020e9a55bb97fcb4626ffb250dea4937b246cf8d6fb39a
+    size: 840571
+    changelog:
+      - Release 0.1.0
   - version: 0.2.2
     downloadUrl: https://mistertick-api.mistertick.workers.dev/catalog/plus-addons/mistertick-jira/versions/0.2.2/download
     requiredApiVersion: '>=0.14.0'
